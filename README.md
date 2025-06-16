@@ -1,7 +1,6 @@
 <!-- GitHub README for Saroj Anand Tripathy -->
-
 <p align="center">
-  <img src="/assets/saroj-profile.gif" alt="Saroj Anand Tripathy | Software Engineer" width="500"/>
+  <img src="assets/profile-saroj.gif" alt="Saroj Anand Tripathy GitHub Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Saroj Anand Tripathy 👋</h1>
