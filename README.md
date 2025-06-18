@@ -102,7 +102,7 @@
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/saroj-tripathy)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saroj-anand-tripathy/)
 - 📧 [Email](mailto:sarojanandtripathy.sat@gmail.com)
 - 🔭 [GitHub](https://github.com/snoozeminatorZZZZZ)
 
